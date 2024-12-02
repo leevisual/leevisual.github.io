@@ -1,0 +1,24 @@
+      #div1 {
+        width: 50%;
+        height: 50%;
+        float:left;
+        background: #880606;
+      }
+      #div2 {
+       width: 50%;
+        height: 50%;
+        float:right;
+        background: #06880f;
+      }
+      #div3 {
+        width: 50%;
+        height: 50%;
+        float:left;
+        background: #db47b1;
+      }
+      #div4 {
+       width: 50%;
+        height: 50%;
+        float:right;
+        background: #240688;
+      }
