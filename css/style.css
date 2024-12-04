@@ -1,8 +1,11 @@
       #div1 {
         width: 50%;
         height: 50%;
+        background: #ff0000;
         float:left;
-        background: #880606;
+        display: flex;
+        justify-content: center;
+        align-items: center;
       }
       #div2 {
        width: 50%;
